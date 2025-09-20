@@ -13,7 +13,7 @@
 remote_theme: "mmistakes/minimal-mistakes"  # ✅ Required for GitHub Pages
 # theme: "minimal-mistakes-jekyll"          # ❌ Not used with GitHub Pages
 
-minimal_mistakes_skin: "sunrise"  # 🌅 Looks fresh and light — good for service-based websites
+minimal_mistakes_skin: "default"  # 🌅 Looks fresh and light — good for service-based websites
 
 # Site Settings
 locale                   : "en-US"
