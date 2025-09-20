@@ -10,161 +10,141 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes"  # ✅ Required for GitHub Pages
+# theme: "minimal-mistakes-jekyll"          # ❌ Not used with GitHub Pages
+
+minimal_mistakes_skin: "sunrise"  # 🌅 Looks fresh and light — good for service-based websites
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+rtl                      : false
+title                    : "Goa Shine Cleaning Services"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
-words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
-copyright_url            : # "copyright" URL, defaults to site.url
+subtitle                 : "Professional Cleaning Services in Goa"
+name                     : "Goa Shine Cleaning Services"
+description              : "Expert deep cleaning, housekeeping, and sanitation services across Goa. Trusted by homeowners and businesses alike."
+url                      : "https://goashinecs.com"  # Your custom domain
+baseurl                  : ""  # Leave blank for root site
+repository               : "goashinecs/goashinecs"  # Your GitHub repo
+teaser                   : "/assets/img/logo.png"  # Optional fallback image
+logo                     : "/assets/img/logo.png"  # Your logo in the header
+masthead_title           : "Goa Shine Cleaning Services"
+breadcrumbs              : true
+words_per_minute         : 180
+enable_copy_code_button  : false
+copyright                : "Goa Shine Cleaning Services"
+copyright_url            : "https://goashinecs.com"
+
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-    strict               : # 1 for enabled, 0 for disabled (default)
-    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
-    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : # "en" (default)
-    lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
-reCaptcha:
-  siteKey                :
-  secret                 :
+  provider: false  # You can enable Disqus later if needed
+
+# Atom/RSS Feed
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+  path: 
+  hide: false
+
+# Search
+search: true
+search_full_content: false
+search_provider: lunr
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages: true
+
+# Optional - Staticman (disabled)
+endpoint: 
+reCaptcha:
+  siteKey: 
+  secret: 
+
+# Optional - Algolia (disabled)
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id: 
+  index_name: 
+  search_only_api_key: 
+  powered_by: false
+
+# Optional - Google Custom Search (disabled)
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-naver_site_verification  :
-yandex_site_verification :
-baidu_site_verification  :
+  search_engine_id: 
+  instant_search: false
+
 
 # Social Sharing
 twitter:
-  username               :
+  username:               # You don’t use Twitter, so leave blank
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+  username: goashinecs
+  app_id:                 # Optional, only if using Facebook App for analytics
+  publisher:              # Optional
+
+og_image: "/assets/img/logo.png"  # Used when sharing links (Facebook, WhatsApp, etc.)
+
+# Structured data for SEO (Google, etc.)
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Organization
+  name: Goa Shine Cleaning Services
+  links:
+    - https://www.instagram.com/goashinecs
+    - https://www.facebook.com/goashinecs
+    - https://www.youtube.com/@goashinecs
+    - https://www.pinterest.com/goashinecs
 
-# Analytics
+# Analytics (Optional)
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: false  # Set to "google" if using Google Analytics
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
-
+    tracking_id:   # Example: "G-XXXXXXXXXX"
+    anonymize_ip: true
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name: "Goa Shine Cleaning Services"
+  avatar: "/assets/img/logo.png"
+  bio: "Goa’s trusted cleaning experts. Deep cleaning, housekeeping, pest control, and more."
+  location: "Calangute, Goa 403516"
+  email: goashinecs@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:goashinecs@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://goashinecs.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://www.facebook.com/goashinecs"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/goashinecs"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@goashinecs"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.com/goashinecs"
+
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://www.facebook.com/goashinecs"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+      url: "https://www.instagram.com/goashinecs"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@goashinecs"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.com/goashinecs"
+  since: "2017"
+
 
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
 exclude:
   - "*.sublime-project"
@@ -192,13 +172,14 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - /docs
+  - /test
 keep_files:
   - .git
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 
 
 # Conversion
@@ -207,7 +188,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -220,16 +200,15 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style: compressed
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Kolkata"
+
 
 
 # Pagination with jekyll-paginate
@@ -257,7 +236,6 @@ pagination:
     before: 2
     after: 2
 
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -273,6 +251,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
 
 
 # Archives
@@ -303,7 +282,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
@@ -325,3 +303,4 @@ defaults:
       comments: # true
       share: true
       related: true
+
