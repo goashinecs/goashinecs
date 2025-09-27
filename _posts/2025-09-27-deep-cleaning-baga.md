@@ -136,8 +136,6 @@ With Goa Shine Cleaning Services, your property reflects your brand — clean, r
 - 📧 Email: **goashinecs@gmail.com**  
 - 🌐 Website: [www.goashinecs.com](https://www.goashinecs.com)
 
-[📅 Book Now](/contact/) | [🧽 View All Services](/services/)
-
 ---
 
 **Let your rooms sparkle. Let your reviews shine. Goa Shine Cleaning Services — your partner in professional hotel hygiene in Baga.**
