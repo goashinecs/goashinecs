@@ -1,17 +1,20 @@
 ---
-layout: single
+layout: post              # Changed from 'single' to 'post' (common for blog posts)
 title: "Housekeeping Services in Vasco – A Business Owner's Review"
 date: 2025-09-30
-author: Goa Shine Cleaning Services
+author: "Goa Shine Cleaning Services"
 categories: [cleaning, services]
 tags: [housekeeping, vasco, corporate-cleaning]
 excerpt: "Managing a small office in Vasco came with its own cleaning challenges — until we hired Goa Shine’s professional housekeeping team."
+permalink: /cleaning/services/housekeeping-services-in-vasco/   # Set explicit permalink
+published: true           # Make sure post is published
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/img/logo.png
   caption: "Reliable Housekeeping Services in Vasco by Goa Shine"
 ---
+
 
 Running a small but busy office in Vasco means things get messy fast. Between constant client visits, courier deliveries, and five employees sharing one coffee machine, I realized we needed more than just a weekly wipe-down.
 
