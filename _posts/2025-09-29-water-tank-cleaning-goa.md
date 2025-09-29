@@ -11,6 +11,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/img/logo.png
   caption: "Real stories of water tank cleaning in Goa by Goa Shine"
+published: true
 ---
 
 Last month, we faced something most Goan households tend to overlook — the state of our water tank.
