@@ -99,7 +99,6 @@ Within 48 hours, there wasn’t a mosquito in sight. I finally got a full night�
 📞 Call: [81779 10672](tel:+918177910672)  
 📧 Email: [goashinecs@gmail.com](mailto:goashinecs@gmail.com)  
 🌐 Website: [www.goashinecs.com](https://www.goashinecs.com)  
-🔗 Service Page: [Mosquito Control in Goa](https://www.goashinecs.com/mosquito-control-goa.html)
 
 ---
 
