@@ -60,7 +60,6 @@ If your walls are looking worse for wear, **Goa Shine Cleaning Services** offers
 📞 Call: [81779 10672](tel:+918177910672)  
 📧 Email: [goashinecs@gmail.com](mailto:goashinecs@gmail.com)  
 🌐 Website: [www.goashinecs.com](https://www.goashinecs.com)  
-🔗 Service Page: [Wall Cleaning Services in Goa](https://www.goashinecs.com/wall-cleaning-goa.html)
 
 ---
 
