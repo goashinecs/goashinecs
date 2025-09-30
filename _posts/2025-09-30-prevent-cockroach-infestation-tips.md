@@ -102,8 +102,7 @@ If you:
 📍 Serving homes across Goa — including Panjim, Margao, Vasco, Mapusa  
 📞 Call: [81779 10672](tel:+918177910672)  
 📧 Email: [goashinecs@gmail.com](mailto:goashinecs@gmail.com)  
-🌐 Website: [www.goashinecs.com](https://www.goashinecs.com)  
-🔗 Service Page: [Cockroach Pest Control](https://www.goashinecs.com/cockroach-control-goa.html)
+🌐 Website: [www.goashinecs.com](https://www.goashinecs.com)
 
 ---
 
