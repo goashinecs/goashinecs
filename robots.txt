@@ -1,5 +1,8 @@
 User-agent: *
 Disallow: /page
 Disallow: /page*
+Disallow: /categories/
+Disallow: /categories
+
 
 Sitemap: https://blog.goashinecs.com/sitemap.xml
