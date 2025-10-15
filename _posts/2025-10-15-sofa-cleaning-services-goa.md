@@ -79,6 +79,14 @@ At Goa Shine Cleaning Services, we have years of experience in providing profess
 
 ---
 
+## 📸 Sofa Cleaning Results
+
+<div align="center">
+    ![Sofa Cleaning Example](https://www.instagram.com/p/DP1MZxRElgA/)
+</div>
+
+---
+
 ## 📞 Get in Touch
 
 Ready to give your sofa the deep clean it deserves? Contact [Goa Shine Cleaning Services](https://www.goashinecs.com/sofa-cleaning-services-goa.html) today for a free quote or to schedule your sofa cleaning appointment. We’re here to make your home cleaner, fresher, and more comfortable.
