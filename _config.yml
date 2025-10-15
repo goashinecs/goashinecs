@@ -1,85 +1,64 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Minimal Mistakes Config for Goa Shine Cleaning Services
+remote_theme: "mmistakes/minimal-mistakes"  # Required for GitHub Pages
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+minimal_mistakes_skin: "default"
 
-remote_theme: "mmistakes/minimal-mistakes"  # ✅ Required for GitHub Pages
-# theme: "minimal-mistakes-jekyll"          # ❌ Not used with GitHub Pages
+locale: "en-US"
+rtl: false
 
-minimal_mistakes_skin: "default"  # 🌅 Looks fresh and light — good for service-based websites
+title: "Goa Shine Cleaning Services"
+title_separator: "-"
+subtitle: "Professional Cleaning Services in Goa"
+name: "Goa Shine Cleaning Services"
+description: "Expert deep cleaning, housekeeping, and sanitation services across Goa. Trusted by homeowners and businesses alike."
 
-# Site Settings
-locale                   : "en-US"
-rtl                      : false
-title                    : "Goa Shine Cleaning Services"
-title_separator          : "-"
-subtitle                 : "Professional Cleaning Services in Goa"
-name                     : "Goa Shine Cleaning Services"
-description              : "Expert deep cleaning, housekeeping, and sanitation services across Goa. Trusted by homeowners and businesses alike."
-url                      : "https://goashinecs.com"  # Your custom domain
-baseurl                  : ""  # Leave blank for root site
-repository               : "goashinecs/goashinecs"  # Your GitHub repo
-teaser                   : "/assets/logo.png"  # Optional fallback image
-logo                     : "/assets/logo.png"  # Your logo in the header
-masthead_title           : "Goa Shine Cleaning Services"
-breadcrumbs              : true
-words_per_minute         : 180
-enable_copy_code_button  : false
-copyright                : "Goa Shine Cleaning Services"
-copyright_url            : "https://goashinecs.com"
+url: "https://goashinecs.com"
+baseurl: ""  # root site
+repository: "goashinecs/goashinecs"
+
+teaser: "/assets/logo.png"
+logo: "/assets/logo.png"
+masthead_title: "Goa Shine Cleaning Services"
+breadcrumbs: true
+words_per_minute: 180
+enable_copy_code_button: false
+copyright: "Goa Shine Cleaning Services"
+copyright_url: "https://goashinecs.com"
 
 comments:
-  provider: false  # You can enable Disqus later if needed
+  provider: false
 
-# Atom/RSS Feed
 atom_feed:
-  path: 
   hide: false
 
-# Search
 search: true
 search_full_content: false
 search_provider: lunr
 lunr:
   search_within_pages: true
 
-# Optional - Staticman (disabled)
-endpoint: 
 reCaptcha:
-  siteKey: 
-  secret: 
+  siteKey: ""
+  secret: ""
 
-# Optional - Algolia (disabled)
 algolia:
-  application_id: 
-  index_name: 
-  search_only_api_key: 
+  application_id: ""
+  index_name: ""
+  search_only_api_key: ""
   powered_by: false
 
-# Optional - Google Custom Search (disabled)
 google:
-  search_engine_id: 
+  search_engine_id: ""
   instant_search: false
 
-
-# Social Sharing
 twitter:
-  username:               # You don’t use Twitter, so leave blank
+  username: ""
+
 facebook:
   username: goashinecs
-  app_id:                 # Optional, only if using Facebook App for analytics
-  publisher:              # Optional
 
-og_image: "/assets/logo.png"  # Used when sharing links (Facebook, WhatsApp, etc.)
+og_image: "/assets/logo.png"
 
-# Structured data for SEO (Google, etc.)
 social:
   type: Organization
   name: Goa Shine Cleaning Services
@@ -89,14 +68,12 @@ social:
     - https://www.youtube.com/@goashinecs
     - https://www.pinterest.com/goashinecs
 
-# Analytics (Optional)
 analytics:
-  provider: false  # Set to "google" if using Google Analytics
+  provider: false
   google:
-    tracking_id:   # Example: "G-XXXXXXXXXX"
+    tracking_id: ""
     anonymize_ip: true
 
-# Site Author
 author:
   bio: "Goa’s trusted cleaning experts. Deep cleaning, housekeeping, pest control, and more."
   location: "Calangute, Goa 403516"
@@ -121,8 +98,6 @@ author:
       icon: "fab fa-fw fa-pinterest"
       url: "https://www.pinterest.com/goashinecs"
 
-
-# Site Footer
 footer:
   links:
     - label: "Facebook"
@@ -139,11 +114,9 @@ footer:
       url: "https://www.pinterest.com/goashinecs"
   since: "2017"
 
-
-
-# Reading Files
 include:
   - _pages
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -172,22 +145,20 @@ exclude:
   - tmp
   - /docs
   - /test
+
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
-
-# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -198,43 +169,28 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
 
-# Outputting
-permalink: /:categories/:title/
+# *** IMPORTANT CHANGE HERE ***
+# permalink to remove categories folders
+permalink: /:title/
+
 timezone: "Asia/Kolkata"
 
-
-
-# Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
 
-# Pagination with jekyll-paginate-v2
-# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-#   for configuration details
 pagination:
-  # Set enabled to true to use paginate v2
-  # enabled: true
+  # enabled: false # pagination v2 disabled by default
   debug: false
   collection: 'posts'
-  per_page: 10
+  per_page: 5
   permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
   sort_field: 'date'
   sort_reverse: true
-  category: 'posts'
-  tag: ''
-  locale: ''
-  trail:
-    before: 2
-    after: 2
 
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -242,7 +198,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -250,47 +205,21 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
+# Disable category/tag archive pages to avoid 404s
 category_archive:
   type: liquid
-  path: /categories/
+  path: ""
+
 tag_archive:
   type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-# HTML Compression
-# - https://jch.penibelst.de/
+  path: ""
+  
 compress_html:
   clippings: all
   ignore:
     envs: development
 
-
-# Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -298,7 +227,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
-
