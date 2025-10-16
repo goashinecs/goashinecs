@@ -3,7 +3,6 @@ layout: single
 title: "Housekeeping Services in Assagao, Goa"
 date: 2025-10-16
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [housekeeping, goa, residential-cleaning]
 excerpt: "Professional housekeeping services in Assagao by Goa Shine to keep your home fresh, clean, and organized."
 header:
