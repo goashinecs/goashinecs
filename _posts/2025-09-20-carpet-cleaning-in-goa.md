@@ -3,7 +3,6 @@ layout: single
 title: "Carpet Cleaning in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [carpet-cleaning, goa, residential-cleaning, commercial-cleaning]
 excerpt: "Make your carpets look and feel brand new with Goa Shine’s professional carpet cleaning services."
 header:
