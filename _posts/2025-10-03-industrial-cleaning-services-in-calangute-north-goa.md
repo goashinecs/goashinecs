@@ -3,7 +3,6 @@ layout: single
 title: "Industrial Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [industrial-cleaning, calangute, north-goa, commercial-cleaning]
 excerpt: "Maintain a safe and hygienic industrial environment with Goa Shine’s professional industrial cleaning services in Calangute, North Goa."
 header:
