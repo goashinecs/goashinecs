@@ -3,7 +3,6 @@ layout: single
 title: "Water Tank Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [water-tank-cleaning, calangute, north-goa, sanitation]
 excerpt: "Ensure safe and clean water with Goa Shine’s professional water tank cleaning services in Calangute, North Goa — keeping your home or business hygienic and worry-free."
 header:
