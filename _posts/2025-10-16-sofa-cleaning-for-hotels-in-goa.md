@@ -72,7 +72,7 @@ Whether you're looking for one-time deep cleaning or regular maintenance, **Goa 
 
 - **Phone**: +91 81779 10672  
 - **Email**: goashinecs@gmail.com  
-- **Website**: [www.goashinecleaning.com](http://www.goashinecleaning.com)
+- **Website**: [www.goashinecs.com](http://www.goashinecs.com)
 
 ---
 
