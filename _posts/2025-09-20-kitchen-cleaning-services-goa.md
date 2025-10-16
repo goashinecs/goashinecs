@@ -3,7 +3,6 @@ layout: single
 title: "Kitchen Cleaning Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [kitchen-cleaning, deep-cleaning, goa]
 excerpt: "Say goodbye to grease, stains, and bacteria with professional kitchen cleaning services by Goa Shine across homes and restaurants in Goa."
 header:
