@@ -3,7 +3,6 @@ layout: single
 title: "Airbnb Cleaning Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [airbnb-cleaning, goa, short-term-rental]
 excerpt: "Keep your Airbnb spotless and guest-ready with Goa Shine’s professional Airbnb cleaning services in Goa."
 header:
