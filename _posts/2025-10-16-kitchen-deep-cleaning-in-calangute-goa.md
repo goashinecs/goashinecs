@@ -3,7 +3,6 @@ layout: single
 title: "Kitchen Deep Cleaning Services in Calangute, Goa"
 date: 2025-10-16
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [deep-cleaning, kitchen-cleaning, goa]
 excerpt: "Restore hygiene and shine to your kitchen with expert deep cleaning in Calangute by Goa Shine Cleaning Services."
 header:
