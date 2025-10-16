@@ -3,7 +3,6 @@ layout: single
 title: "Sofa Cleaning in Margao – A Homeowner’s Honest Review"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, testimonials]
 tags: [sofa-cleaning, margao, home-care]
 excerpt: "Our living room sofa was stained, smelly, and overdue. Goa Shine’s sofa cleaning in Margao changed all that."
 header:
