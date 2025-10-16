@@ -3,7 +3,6 @@ layout: single
 title: "Industrial Cleaning Services in Vasco, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [industrial-cleaning, vasco, south-goa, commercial-cleaning]
 excerpt: "Maintain a safe, hygienic, and efficient industrial facility with Goa Shine’s professional industrial cleaning services in Vasco, South Goa."
 header:
