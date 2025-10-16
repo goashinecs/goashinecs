@@ -3,7 +3,6 @@ layout: single
 title: "Residential Cleaning Services in Colva, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [residential-cleaning, colva, south-goa, home-cleaning]
 excerpt: "Keep your home spotless, hygienic, and fresh with Goa Shine’s professional residential cleaning services in Colva, South Goa."
 header:
