@@ -3,7 +3,6 @@ layout: single
 title: "House Cleaning Hacks for Busy People: Keep Your Goa Home Spotless"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, tips]
 tags: [house-cleaning, goa, time-saving, hacks]
 excerpt: "Pressed for time? Try these quick and practical cleaning hacks that help keep your Goa home fresh, organized, and guest-ready."
 published: true
