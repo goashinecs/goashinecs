@@ -3,7 +3,6 @@ layout: single
 title: "Housekeeping Services in Palolem, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [housekeeping, palolem, south-goa, residential-cleaning]
 excerpt: "Keep your home or rental property organized, clean, and well-maintained with Goa Shine’s professional housekeeping services in Palolem, South Goa."
 header:
