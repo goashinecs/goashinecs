@@ -3,7 +3,6 @@ layout: single
 title: "Behind the Broom: A Day in the Life of a Professional Cleaner in Goa"
 date: 2025-10-07
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [professional-cleaners, goa, daily-life]
 excerpt: "Ever wondered what a professional cleaner's day looks like in Goa? Step behind the scenes with the hardworking team at Goa Shine Cleaning Services."
 header:
