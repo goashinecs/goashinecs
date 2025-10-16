@@ -3,7 +3,6 @@ layout: single
 title: "Types of Deep Cleaning Services in Baga & Calangute"
 date: 2025-09-27
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [deep-cleaning, baga, calangute, types-of-cleaning, housekeeping]
 excerpt: "Explore the different types of professional deep cleaning services offered by Goa Shine Cleaning Services in Baga and Calangute."
 header:
