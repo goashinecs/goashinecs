@@ -3,7 +3,6 @@ layout: single
 title: "Kitchen Cleaning Services in Colva, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [kitchen-cleaning, colva, south-goa, residential-cleaning]
 excerpt: "Maintain a spotless, hygienic, and organized kitchen with Goa Shine’s professional kitchen cleaning services in Colva, South Goa."
 header:
