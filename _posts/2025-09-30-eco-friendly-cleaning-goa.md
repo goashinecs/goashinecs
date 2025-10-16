@@ -3,7 +3,6 @@ layout: single
 title: "Eco-Friendly Cleaning Services in Goa: The Green Revolution for Your Home"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, sustainability]
 tags: [eco-friendly, goa, green-cleaning, home-maintenance]
 excerpt: "Switch to eco-friendly cleaning in Goa and discover how green solutions can protect your home — and the planet."
 published: true
