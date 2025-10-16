@@ -3,7 +3,6 @@ layout: single
 title: "Move-In & Move-Out Cleaning Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [move-in-cleaning, move-out-cleaning, goa]
 excerpt: "Stress-free relocation with professional move-in and move-out cleaning services across Goa — perfect for tenants, landlords, and real estate agents."
 header:
