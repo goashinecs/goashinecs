@@ -3,7 +3,6 @@ layout: single
 title: "Pest Control Services in Candolim, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [pest-control, candolim, north-goa, sanitation]
 excerpt: "Protect your home or business with Goa Shine’s professional pest control services in Candolim, North Goa — effective, safe, and eco-friendly."
 header:
