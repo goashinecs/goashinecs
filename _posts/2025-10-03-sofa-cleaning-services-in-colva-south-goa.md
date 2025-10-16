@@ -3,7 +3,6 @@ layout: single
 title: "Sofa Cleaning Services in Colva, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [sofa-cleaning, colva, south-goa, residential-cleaning]
 excerpt: "Restore the beauty and hygiene of your sofas with Goa Shine’s professional sofa cleaning services in Colva, South Goa."
 header:
