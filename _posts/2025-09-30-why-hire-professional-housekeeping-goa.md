@@ -3,7 +3,6 @@ layout: single
 title: "Why Hiring a Professional Housekeeping Service in Goa Is a Smart Choice"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [housekeeping, goa, professional-cleaning]
 excerpt: "Discover the benefits of hiring a professional housekeeping service in Goa and how it can simplify your life."
 published: true
