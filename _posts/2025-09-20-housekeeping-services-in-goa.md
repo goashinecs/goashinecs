@@ -3,7 +3,6 @@ layout: single
 title: "Housekeeping Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [housekeeping, goa, professional-cleaning]
 excerpt: "Discover how our professional housekeeping services keep your home or business tidy, fresh, and stress-free."
 header:
