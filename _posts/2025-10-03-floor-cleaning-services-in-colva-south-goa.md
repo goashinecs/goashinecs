@@ -3,7 +3,6 @@ layout: single
 title: "Floor Cleaning Services in Colva, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [floor-cleaning, colva, south-goa, residential-cleaning]
 excerpt: "Maintain sparkling, hygienic, and well-polished floors with Goa Shine’s professional floor cleaning services in Colva, South Goa."
 header:
