@@ -3,7 +3,6 @@ layout: single
 title: "Housekeeping Services in Vasco – A Business Owner's Review"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [housekeeping, vasco, corporate-cleaning]
 excerpt: "Managing a small office in Vasco came with its own cleaning challenges — until we hired Goa Shine’s professional housekeeping team."
 published: true
