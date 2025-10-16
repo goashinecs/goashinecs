@@ -3,7 +3,6 @@ layout: single
 title: "Move-in Move-out Cleaning Services in Siolim, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [move-in-move-out-cleaning, siolim, north-goa, residential-cleaning]
 excerpt: "Ensure a smooth transition with Goa Shine’s move-in move-out cleaning services in Siolim, North Goa — leaving your property spotless and ready for the next occupants."
 header:
