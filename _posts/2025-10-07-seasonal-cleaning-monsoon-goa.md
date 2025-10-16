@@ -3,8 +3,6 @@ layout: single
 title: "Why Seasonal Cleaning in Goa is Non-Negotiable (Especially During Monsoon)"
 date: 2025-10-07
 author: Goa Shine Cleaning Services
-categories: [cleaning, seasonal]
-tags: [monsoon-cleaning, goa, housekeeping]
 excerpt: "Monsoons in Goa are beautiful — but also bring mold, moisture, and mess. Discover why seasonal cleaning is a must for every Goan home or business."
 header:
   overlay_color: "#000"
