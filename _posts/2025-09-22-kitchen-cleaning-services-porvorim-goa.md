@@ -3,7 +3,6 @@ layout: single
 title: "Kitchen Cleaning Services in Porvorim, Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, kitchen]
 tags: [kitchen-cleaning, porvorim, deep-cleaning, goa]
 excerpt: "Professional kitchen deep cleaning services in Porvorim, Goa — for homes, restaurants, rentals, and more."
 header:
