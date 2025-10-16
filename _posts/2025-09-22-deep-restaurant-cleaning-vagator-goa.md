@@ -3,7 +3,6 @@ layout: single
 title: "Deep Restaurant Cleaning in Vagator, Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, commercial]
 tags: [restaurant-cleaning, vagator, goa-cleaning]
 excerpt: "Professional deep cleaning services for restaurants and food outlets in Vagator, Goa."
 header:
