@@ -3,8 +3,6 @@ layout: single
 title: "Sofa Cleaning Services in Goa"
 date: 2025-10-15
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
-tags: [sofa-cleaning, upholstery-cleaning, goa, home-care]
 excerpt: "Revitalize your home with Goa Shine's professional sofa cleaning services, bringing comfort and cleanliness to your living space."
 header:
   overlay_color: "#000"
