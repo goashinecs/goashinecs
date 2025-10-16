@@ -3,7 +3,6 @@ layout: single
 title: "Mattress Cleaning Services in Anjuna, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [mattress-cleaning, anjuna, north-goa, hygiene]
 excerpt: "Ensure a healthier night’s sleep with Goa Shine’s professional mattress cleaning services in Anjuna, North Goa — removing dust, allergens, and stains effectively."
 header:
