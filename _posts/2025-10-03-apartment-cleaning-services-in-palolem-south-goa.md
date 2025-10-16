@@ -3,7 +3,6 @@ layout: single
 title: "Apartment Cleaning Services in Palolem, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [apartment-cleaning, palolem, south-goa, residential-cleaning]
 excerpt: "Keep your apartment spotless, hygienic, and well-maintained with Goa Shine’s professional apartment cleaning services in Palolem, South Goa."
 header:
