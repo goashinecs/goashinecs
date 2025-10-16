@@ -3,7 +3,6 @@ layout: single
 title: "Pest Control Services in Margao, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [pest-control, margao, south-goa, home-cleaning]
 excerpt: "Protect your home or business from pests with Goa Shine’s professional pest control services in Margao, South Goa."
 header:
