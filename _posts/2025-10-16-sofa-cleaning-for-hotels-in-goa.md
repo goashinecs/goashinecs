@@ -2,8 +2,6 @@ layout: single
 title: "Sofa Cleaning Services for Hotels in Goa"
 date: 2025-10-16
 author: Goa Shine Cleaning Services
-categories: [cleaning, hotel-services]
-tags: [sofa-cleaning, hotel-cleaning, goa, upholstery-cleaning]
 excerpt: "Ensure your hotel’s sofas remain pristine and comfortable for guests with Goa Shine’s expert sofa cleaning services."
 header:
   overlay_color: "#000"
