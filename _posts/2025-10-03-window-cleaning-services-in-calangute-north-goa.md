@@ -3,7 +3,6 @@ layout: single
 title: "Window Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [window-cleaning, calangute, north-goa, residential-cleaning]
 excerpt: "Keep your windows sparkling and clear with Goa Shine’s professional window cleaning services in Calangute, North Goa."
 header:
