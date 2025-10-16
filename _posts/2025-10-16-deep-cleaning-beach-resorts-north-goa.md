@@ -11,7 +11,7 @@ header:
   caption: "Thorough Deep Cleaning for Beach Resorts in North Goa"
 ---
 
-In a tropical destination like Goa, resorts need more than just daily housekeeping — they need scheduled **deep cleaning** to maintain hygiene and deliver five-star guest experiences. **Goa Shine Cleaning Services** offers comprehensive deep cleaning services tailored specifically for beach resorts in North Goa.
+In a tropical destination like Goa, resorts need more than just daily housekeeping they need scheduled **deep cleaning** to maintain hygiene and deliver five-star guest experiences. **Goa Shine Cleaning Services** offers comprehensive deep cleaning services tailored specifically for beach resorts in North Goa.
 
 ---
 
@@ -83,7 +83,7 @@ Don’t let salt air, sand, and humidity affect your guest reviews. Partner with
 
 - **Call**: +91 81779 10672  
 - **Email**: goashinecs@gmail.com  
-- **Website**: [www.goashinecleaning.com](http://www.goashinecleaning.com)
+- **Website**: [www.goashinecs.com](http://www.goashinecs.com)
 
 ---
 
