@@ -3,7 +3,6 @@ layout: single
 title: "Water Tank Cleaning in Goa – A Resident’s Experience"
 date: 2025-09-29
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [water-tank-cleaning, goa, home-maintenance]
 excerpt: "One Goan resident shares their experience getting a neglected water tank cleaned — and what a difference it made."
 header:
