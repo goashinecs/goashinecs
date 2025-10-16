@@ -3,7 +3,6 @@ layout: single
 title: "Sofa Cleaning Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [sofa-cleaning, upholstery, goa]
 excerpt: "Restore your sofa's shine with expert sofa cleaning services in Goa from Goa Shine."
 header:
