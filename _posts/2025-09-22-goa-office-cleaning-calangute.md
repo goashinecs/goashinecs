@@ -3,7 +3,6 @@ layout: single
 title: "Goa Office Cleaning Services in Calangute"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [office-cleaning, goa, calangute, commercial-cleaning]
 excerpt: "Professional and reliable office cleaning services in Calangute, Goa, by Goa Shine Cleaning Services."
 header:
