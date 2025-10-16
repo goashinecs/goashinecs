@@ -3,7 +3,6 @@ layout: single
 title: "Office Cleaning Services in Colva, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [office-cleaning, colva, south-goa, commercial-cleaning]
 excerpt: "Keep your office clean, organized, and hygienic with Goa Shine’s professional office cleaning services in Colva, South Goa."
 header:
