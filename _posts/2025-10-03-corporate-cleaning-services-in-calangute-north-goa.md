@@ -3,7 +3,6 @@ layout: single
 title: "Corporate Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [corporate-cleaning, calangute, north-goa, office-cleaning]
 excerpt: "Enhance workplace hygiene with Goa Shine’s corporate cleaning services in Calangute, North Goa — professional, reliable, and available 24/7."
 header:
