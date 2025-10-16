@@ -3,7 +3,6 @@ layout: single
 title: "How Goa Shine Transformed Our Star Hotel Kitchen in Calangute"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, testimonials]
 tags: [kitchen-cleaning, hotel, calangute]
 excerpt: "When kitchen hygiene is everything, Goa Shine’s team came through with precision and professionalism we didn’t expect."
 published: true
