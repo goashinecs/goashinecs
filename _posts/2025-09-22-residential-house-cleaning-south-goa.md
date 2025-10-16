@@ -3,7 +3,6 @@ layout: single
 title: "Residential House Cleaning in South Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, residential]
 tags: [residential-cleaning, south-goa, home-cleaning]
 excerpt: "Professional residential house cleaning services in South Goa – for villas, apartments, and family homes."
 header:
