@@ -3,7 +3,6 @@ layout: single
 title: "Nightclub, Restaurant & Hotel Cleaning Services in Vagator, Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, commercial]
 tags: [vagator, hotel-cleaning, restaurant-cleaning, nightclub-cleaning]
 excerpt: "Specialized deep cleaning services for hotels, restaurants, and nightclubs in Vagator, Goa."
 header:
