@@ -3,7 +3,6 @@ layout: single
 title: "How to Keep Your Home Clean in Goa’s Humid Weather"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, tips]
 tags: [home-cleaning, goa, humid-weather, housekeeping]
 excerpt: "Practical tips to maintain a clean and fresh home despite Goa’s humid climate."
 published: true
