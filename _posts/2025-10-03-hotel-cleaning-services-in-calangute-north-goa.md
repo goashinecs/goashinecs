@@ -3,7 +3,6 @@ layout: single
 title: "Hotel Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [hotel-cleaning, calangute, north-goa, hospitality-cleaning]
 excerpt: "Keep your hotel sparkling and guest-ready with Goa Shine’s professional hotel cleaning services in Calangute, North Goa."
 header:
