@@ -3,7 +3,6 @@ layout: single
 title: "Kitchen Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [kitchen-cleaning, calangute, north-goa, deep-cleaning]
 excerpt: "Keep your kitchen spotless and hygienic with Goa Shine’s professional kitchen cleaning services in Calangute, North Goa — safe, thorough, and eco-friendly."
 header:
