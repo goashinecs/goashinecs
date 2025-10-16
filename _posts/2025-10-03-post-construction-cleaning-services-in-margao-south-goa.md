@@ -3,7 +3,6 @@ layout: single
 title: "Post-Construction Cleaning Services in Margao, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [post-construction-cleaning, margao, south-goa, commercial-cleaning]
 excerpt: "Transform your newly constructed or renovated property with Goa Shine’s professional post-construction cleaning services in Margao, South Goa."
 header:
