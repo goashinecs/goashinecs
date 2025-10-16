@@ -3,7 +3,6 @@ layout: single
 title: "Top 7 Benefits of Hiring Professional Housekeeping Services in Goa"
 date: 2025-10-07
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [housekeeping, professional-cleaning, goa]
 excerpt: "Discover how professional housekeeping services in Goa can transform your home or office with expert care and unparalleled cleanliness."
 header:
