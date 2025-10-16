@@ -3,7 +3,6 @@ layout: single
 title: "Bathroom Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [bathroom-cleaning, calangute, north-goa, deep-cleaning]
 excerpt: "Maintain a spotless and hygienic bathroom with Goa Shine’s professional bathroom cleaning services in Calangute, North Goa."
 header:
