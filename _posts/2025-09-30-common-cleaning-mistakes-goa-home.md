@@ -3,7 +3,6 @@ layout: single
 title: "5 Common Cleaning Mistakes to Avoid in Your Goa Home"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, tips]
 tags: [housekeeping, goa, cleaning-mistakes]
 excerpt: "Cleaning your home regularly is great — but doing it the wrong way can cause more harm than good. Avoid these common cleaning mistakes made in Goan households."
 published: true
