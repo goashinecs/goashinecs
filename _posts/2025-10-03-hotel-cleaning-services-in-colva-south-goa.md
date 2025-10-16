@@ -3,7 +3,6 @@ layout: single
 title: "Hotel Cleaning Services in Colva, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [hotel-cleaning, colva, south-goa, commercial-cleaning]
 excerpt: "Provide spotless, hygienic, and guest-ready accommodations with Goa Shine’s professional hotel cleaning services in Colva, South Goa."
 header:
