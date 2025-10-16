@@ -3,7 +3,6 @@ layout: single
 title: "Pest Control Services All Over Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, pest-control]
 tags: [pest-control, goa, termite-treatment, cockroach-control, rodent-control]
 excerpt: "Effective and affordable pest control services across Goa for homes, restaurants, hotels, and businesses."
 header:
