@@ -3,7 +3,6 @@ layout: single
 title: "Office Cleaning Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [office-cleaning, goa, commercial-cleaning]
 excerpt: "Ensure a cleaner, healthier, and more productive work environment with our expert office cleaning services across Goa."
 header:
