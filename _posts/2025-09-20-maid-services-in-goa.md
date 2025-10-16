@@ -3,7 +3,6 @@ layout: single
 title: "Maid Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [maid-services, goa, domestic-help]
 excerpt: "Reliable and trained maids to help you manage household chores with ease and trust."
 header:
