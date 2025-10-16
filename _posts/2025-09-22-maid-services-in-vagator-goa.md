@@ -3,7 +3,6 @@ layout: single
 title: "Maid Services in Vagator, Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [maid-services, housekeeping]
 tags: [maid-services, vagator, daily-maid, part-time-maid, goa]
 excerpt: "Hire reliable daily or part-time maid services in Vagator for homes, rentals, and businesses. Trained and verified staff by Goa Shine."
 header:
