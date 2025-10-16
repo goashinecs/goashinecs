@@ -3,7 +3,6 @@ layout: single
 title: "Floor Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [floor-cleaning, calangute, north-goa, deep-cleaning]
 excerpt: "Maintain sparkling and hygienic floors with Goa Shine’s professional floor cleaning services in Calangute, North Goa — safe, thorough, and reliable."
 header:
