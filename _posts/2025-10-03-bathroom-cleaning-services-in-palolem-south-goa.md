@@ -3,7 +3,6 @@ layout: single
 title: "Bathroom Cleaning Services in Palolem, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [bathroom-cleaning, palolem, south-goa, residential-cleaning]
 excerpt: "Maintain spotless, sanitized, and hygienic bathrooms with Goa Shine’s professional bathroom cleaning services in Palolem, South Goa."
 header:
