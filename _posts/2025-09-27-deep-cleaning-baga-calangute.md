@@ -3,7 +3,6 @@ layout: single
 title: "Deep Cleaning Services in Baga & Calangute"
 date: 2025-09-27
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [deep-cleaning, baga, calangute, housekeeping, cleaning-services-goa]
 excerpt: "Experience thorough deep cleaning in Baga and Calangute with Goa Shine’s expert housekeeping services. We deliver spotless, hygienic spaces for homes and businesses."
 header:
