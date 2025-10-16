@@ -3,7 +3,6 @@ layout: single
 title: "Move-In Move-Out Cleaning in Goa – A Tenant’s Real Experience"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [move-out-cleaning, goa, housekeeping, rental]
 excerpt: "Moving in or out of a flat in Goa? Here's how professional cleaning saved me time, stress, and even my deposit."
 published: true
