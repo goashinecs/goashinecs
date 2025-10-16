@@ -3,7 +3,6 @@ layout: single
 title: "Airbnb Cleaning Services in Margao, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [airbnb-cleaning, margao, south-goa, short-term-rental]
 excerpt: "Keep your Airbnb spotless and guest-ready with Goa Shine’s professional Airbnb cleaning services in Margao, South Goa."
 header:
