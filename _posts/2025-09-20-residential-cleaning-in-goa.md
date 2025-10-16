@@ -3,7 +3,6 @@ layout: single
 title: "Residential Cleaning Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [residential-cleaning, goa, home-cleaning, housekeeping]
 excerpt: "Trusted residential cleaning in Goa for a spotless, healthy home environment — from deep cleaning to regular housekeeping."
 header:
