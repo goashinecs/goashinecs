@@ -3,7 +3,6 @@ layout: single
 title: "Holiday Home Housekeeping in Morjim, Goa"
 date: 2025-10-16
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [holiday-home, goa, housekeeping]
 excerpt: "Ensure your holiday home in Morjim stays guest-ready with expert housekeeping by Goa Shine."
 header:
