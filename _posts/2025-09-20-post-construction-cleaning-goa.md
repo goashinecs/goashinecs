@@ -3,7 +3,6 @@ layout: single
 title: "Post-Construction and Renovation Cleaning in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [post-construction, renovation-cleaning, goa]
 excerpt: "Construction is messy — we make it clean again. Goa Shine’s expert post-renovation cleaning removes dust, debris, paint stains, and more."
 header:
