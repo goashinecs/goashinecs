@@ -3,7 +3,6 @@ layout: single
 title: "Professional Cleaners & General Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [professional-cleaners, calangute, north-goa, cleaning-services]
 excerpt: "Keep your home or business spotless with Goa Shine’s professional cleaning services in Calangute, North Goa — reliable, thorough, and available 24/7."
 header:
