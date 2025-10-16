@@ -3,7 +3,6 @@ layout: single
 title: "Deep Cleaning Services in Porvorim, Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, deep-cleaning]
 tags: [deep-cleaning, porvorim, house-cleaning, commercial-cleaning, goa]
 excerpt: "Thorough and professional deep cleaning services in Porvorim for homes, villas, offices, and rental properties."
 header:
