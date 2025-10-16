@@ -3,7 +3,6 @@ layout: single
 title: "Housekeeping Services in Baga, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [housekeeping, baga, north-goa, home-cleaning]
 excerpt: "Keep your villa, apartment, or guesthouse in Baga spotless with Goa Shine’s reliable housekeeping services tailored for North Goa’s busy lifestyle."
 header:
