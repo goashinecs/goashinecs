@@ -3,7 +3,6 @@ layout: single
 title: "Sanitization Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [sanitization, calangute, north-goa, disinfection]
 excerpt: "Ensure a germ-free and safe environment with Goa Shine’s professional sanitization services in Calangute, North Goa."
 header:
