@@ -3,7 +3,6 @@ layout: single
 title: "Why Wall Cleaning Should Be Your Top Priority"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, home-care]
 tags: [wall-cleaning, home-maintenance, deep-cleaning]
 excerpt: "Walls often get overlooked, but keeping them clean is key to a fresh, healthy home. Here's why wall cleaning deserves your attention."
 published: true
