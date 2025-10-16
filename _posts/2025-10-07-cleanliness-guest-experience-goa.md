@@ -3,7 +3,6 @@ layout: single
 title: "How Cleanliness Impacts Guest Experience in Goa’s Vacation Rentals"
 date: 2025-10-07
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [vacation-rentals, cleaning, goa, guest-experience]
 excerpt: "A spotless vacation rental is key to great reviews and repeat guests. Discover how cleanliness shapes the guest experience in Goa’s thriving tourism market."
 header:
