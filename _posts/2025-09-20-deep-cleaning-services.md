@@ -3,7 +3,6 @@ layout: single
 title: "Deep Cleaning Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [deep-cleaning, goa, housekeeping]
 excerpt: "Why deep cleaning is essential, what's included, and how Goa Shine ensures spotless results."
 header:
