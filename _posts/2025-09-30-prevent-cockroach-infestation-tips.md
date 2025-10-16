@@ -3,7 +3,6 @@ layout: single
 title: "Expert Tips to Prevent Cockroach Infestation at Your Home"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, pest-control]
 tags: [cockroach, pest-control, goa, home-hygiene]
 excerpt: "Tired of cockroaches invading your kitchen and bathroom? These proven prevention tips from Goa Shine’s experts can help keep them away for good."
 published: true
