@@ -3,7 +3,6 @@ layout: single
 title: "Vasco Cleaning Services in Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [vasco-cleaning, goa, residential-cleaning, commercial-cleaning]
 excerpt: "Reliable and professional residential and commercial cleaning services in Vasco da Gama, Goa by Goa Shine Cleaning Services."
 header:
