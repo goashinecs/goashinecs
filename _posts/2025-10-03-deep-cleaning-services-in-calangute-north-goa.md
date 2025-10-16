@@ -3,7 +3,6 @@ layout: single
 title: "Deep Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [deep-cleaning, calangute, north-goa, home-cleaning]
 excerpt: "Give your Calangute home or business a spotless makeover with Goa Shine’s professional deep cleaning services in North Goa."
 header:
