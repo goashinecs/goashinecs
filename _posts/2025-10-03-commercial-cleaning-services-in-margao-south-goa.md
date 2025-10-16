@@ -3,7 +3,6 @@ layout: single
 title: "Commercial Cleaning Services in Margao, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [commercial-cleaning, margao, south-goa, office-cleaning]
 excerpt: "Maintain a clean, professional, and hygienic workspace with Goa Shine’s commercial cleaning services in Margao, South Goa."
 header:
