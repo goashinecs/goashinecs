@@ -3,7 +3,6 @@ layout: single
 title: "Carpet Cleaning Services in Benaulim, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [carpet-cleaning, benaulim, south-goa, residential-cleaning]
 excerpt: "Keep your carpets fresh, spotless, and hygienic with Goa Shine’s professional carpet cleaning services in Benaulim, South Goa."
 header:
