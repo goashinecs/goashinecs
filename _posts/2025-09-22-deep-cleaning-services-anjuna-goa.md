@@ -3,7 +3,6 @@ layout: single
 title: "Deep Cleaning Services in Anjuna, Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, deep-cleaning]
 tags: [anjuna, deep-cleaning, home-cleaning, commercial-cleaning]
 excerpt: "Professional deep cleaning services in Anjuna for homes, villas, restaurants, and commercial properties."
 header:
