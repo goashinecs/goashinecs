@@ -3,7 +3,6 @@ layout: single
 title: "Sofa Cleaning Services in Mapusa, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [sofa-cleaning, mapusa, north-goa, upholstery]
 excerpt: "Restore the beauty of your sofas with Goa Shine’s expert sofa cleaning services in Mapusa, North Goa — removing stains, dirt, and odors effectively."
 header:
