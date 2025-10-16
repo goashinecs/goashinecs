@@ -3,7 +3,6 @@ layout: single
 title: "How I Got Rid of Mosquitoes Inside My Home – What Actually Worked"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, pest-control]
 tags: [mosquito-control, home-hacks, pest-solutions, goa]
 excerpt: "Struggling with mosquitoes buzzing around your living room or bedroom? Here’s a real-life approach that finally brought peace (and sleep) back to my home."
 published: true
