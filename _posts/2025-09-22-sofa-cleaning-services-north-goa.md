@@ -3,7 +3,6 @@ layout: single
 title: "Sofa Cleaning Services in North Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, upholstery]
 tags: [sofa-cleaning, north-goa, upholstery-cleaning, home-cleaning]
 excerpt: "Expert sofa and upholstery cleaning services across North Goa for homes, rentals, hotels, and offices."
 header:
