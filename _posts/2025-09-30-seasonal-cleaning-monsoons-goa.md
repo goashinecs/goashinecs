@@ -3,7 +3,6 @@ layout: single
 title: "Seasonal Cleaning Tips for Your Goa Home: Prepare for the Monsoons"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, seasonal]
 tags: [monsoon-cleaning, goa, seasonal-tips, home-care]
 excerpt: "Monsoon season in Goa brings humidity, mold, and mess. Here’s how to prepare your home with effective seasonal cleaning strategies."
 published: true
