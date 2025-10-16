@@ -3,7 +3,6 @@ layout: single
 title: "Restaurant Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [restaurant-cleaning, calangute, north-goa, commercial-cleaning]
 excerpt: "Keep your restaurant hygienic and guest-ready with Goa Shine’s professional restaurant cleaning services in Calangute, North Goa."
 header:
