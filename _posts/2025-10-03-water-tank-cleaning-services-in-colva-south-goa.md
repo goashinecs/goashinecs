@@ -3,7 +3,6 @@ layout: single
 title: "Water Tank Cleaning Services in Colva, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [water-tank-cleaning, colva, south-goa, residential-cleaning]
 excerpt: "Ensure safe and clean water supply with Goa Shine’s professional water tank cleaning services in Colva, South Goa."
 header:
