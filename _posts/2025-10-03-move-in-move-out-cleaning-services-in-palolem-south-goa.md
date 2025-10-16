@@ -3,7 +3,6 @@ layout: single
 title: "Move-In/Move-Out Cleaning Services in Palolem, South Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [move-in-move-out-cleaning, palolem, south-goa, residential-cleaning]
 excerpt: "Ensure a spotless, sanitized, and ready-to-live space with Goa Shine’s professional move-in/move-out cleaning services in Palolem, South Goa."
 header:
