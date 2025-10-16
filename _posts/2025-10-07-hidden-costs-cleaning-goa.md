@@ -3,7 +3,6 @@ layout: single
 title: "The Hidden Costs of Skipping Professional Cleaning in Goa"
 date: 2025-10-07
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [professional-cleaning, goa, housekeeping]
 excerpt: "Avoiding professional cleaning might seem like saving money — but it could be costing you far more. Find out what’s at stake for your home or business in Goa."
 header:
