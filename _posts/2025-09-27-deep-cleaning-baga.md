@@ -3,7 +3,6 @@ layout: single
 title: "Deep Cleaning Services in Baga"
 date: 2025-09-27
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [deep-cleaning, baga, hotel-cleaning, hospitality]
 excerpt: "Ensure spotless hotel rooms and premium guest experiences with Goa Shine’s deep cleaning services in Baga."
 header:
