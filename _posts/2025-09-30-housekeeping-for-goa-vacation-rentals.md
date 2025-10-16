@@ -3,7 +3,6 @@ layout: single
 title: "Why Hiring an Expert Housekeeping Service is Essential for Your Goa Vacation Rental"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, hospitality]
 tags: [vacation-rental, housekeeping, goa, airbnb]
 excerpt: "Running a vacation rental in Goa? First impressions matter — and professional housekeeping can make or break your guest reviews."
 published: true
