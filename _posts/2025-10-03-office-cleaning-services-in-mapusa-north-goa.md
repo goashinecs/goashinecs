@@ -3,7 +3,6 @@ layout: single
 title: "Office Cleaning Services in Mapusa, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [office-cleaning, mapusa, north-goa, corporate]
 excerpt: "Boost workplace hygiene and productivity with Goa Shine’s professional office cleaning services in Mapusa, North Goa."
 header:
