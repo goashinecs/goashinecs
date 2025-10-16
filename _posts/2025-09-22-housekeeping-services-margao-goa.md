@@ -3,7 +3,6 @@ layout: single
 title: "Housekeeping Services in Margao, Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, housekeeping]
 tags: [housekeeping, margao, goa, home-cleaning]
 excerpt: "Professional and affordable housekeeping services in Margao, Goa for homes, rentals, and businesses."
 header:
