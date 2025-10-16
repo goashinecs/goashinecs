@@ -3,7 +3,6 @@ layout: single
 title: "Water Tank Cleaning Services in Goa"
 date: 2025-09-20
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [water-tank, hygiene, sanitation, goa]
 excerpt: "Ensure clean and safe water with Goa Shine’s professional water tank cleaning services for homes, apartments, and businesses across Goa."
 header:
