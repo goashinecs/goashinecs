@@ -3,7 +3,6 @@ layout: single
 title: "How Our Professional Cleaning Services Make Your Goa Vacation Stress-Free"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, vacation]
 tags: [vacation-rental, cleaning-services, goa, stress-free]
 excerpt: "Planning a relaxing getaway to Goa? Here’s how our expert cleaning services help you enjoy your stay without lifting a finger."
 published: true
