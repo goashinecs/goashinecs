@@ -3,7 +3,6 @@ layout: single
 title: "The Ultimate Guide to Post-Rental Cleaning in Goa"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [post-rental-cleaning, goa, move-out, tenant-tips]
 excerpt: "Moving out of a rental in Goa? This step-by-step guide will help you leave the space spotless — and keep your deposit intact."
 published: true
