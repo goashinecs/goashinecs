@@ -3,7 +3,6 @@ layout: single
 title: "Apartment Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [apartment-cleaning, calangute, north-goa, residential-cleaning]
 excerpt: "Keep your apartment spotless and hygienic with Goa Shine’s professional apartment cleaning services in Calangute, North Goa."
 header:
