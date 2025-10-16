@@ -3,7 +3,6 @@ layout: single
 title: "Housekeeping Services in Mapusa, Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, housekeeping]
 tags: [housekeeping, mapusa, goa-cleaning]
 excerpt: "Reliable daily and on-demand housekeeping services for homes, rentals, and businesses in Mapusa, Goa."
 header:
