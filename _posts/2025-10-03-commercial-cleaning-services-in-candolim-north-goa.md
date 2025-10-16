@@ -3,7 +3,6 @@ layout: single
 title: "Commercial Cleaning Services in Candolim, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [commercial-cleaning, candolim, north-goa, business]
 excerpt: "Goa Shine delivers professional commercial cleaning services in Candolim, North Goa — ensuring businesses, shops, and offices stay spotless and welcoming."
 header:
