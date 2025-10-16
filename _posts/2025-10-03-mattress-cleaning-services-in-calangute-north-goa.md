@@ -3,7 +3,6 @@ layout: single
 title: "Mattress Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [mattress-cleaning, calangute, north-goa, deep-cleaning]
 excerpt: "Keep your mattresses hygienic and allergen-free with Goa Shine’s professional mattress cleaning services in Calangute, North Goa."
 header:
