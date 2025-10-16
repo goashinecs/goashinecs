@@ -3,7 +3,6 @@ layout: single
 title: "My Experience with Bathroom Cleaning in Goa – A Genuine Testimonial"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, testimonials]
 tags: [bathroom-cleaning, goa, customer-review]
 excerpt: "What started as a frustrating cleaning task ended with a fresh, sparkling bathroom—thanks to Goa Shine. Here's my honest review."
 published: true
