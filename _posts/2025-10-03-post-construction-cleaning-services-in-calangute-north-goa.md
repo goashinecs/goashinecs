@@ -3,7 +3,6 @@ layout: single
 title: "Post-Construction Cleaning Services in Calangute, North Goa"
 date: 2025-10-03
 author: Goa Shine Cleaning Services
-categories: [cleaning, services]
 tags: [post-construction-cleaning, calangute, north-goa, deep-cleaning]
 excerpt: "Get your property move-in ready with Goa Shine’s post-construction cleaning services in Calangute, North Goa — removing dust, debris, and construction residues efficiently."
 header:
