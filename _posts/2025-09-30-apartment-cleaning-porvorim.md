@@ -3,7 +3,6 @@ layout: single
 title: "Apartment Cleaning in Porvorim – Clean, Sanitized, and Stress-Free"
 date: 2025-09-30
 author: Goa Shine Cleaning Services
-categories: [cleaning, testimonials]
 tags: [apartment-cleaning, porvorim, deep-cleaning]
 excerpt: "We needed a full apartment cleanup before moving in — Goa Shine delivered exactly what they promised: spotless and sanitized."
 header:
