@@ -3,7 +3,6 @@ layout: single
 title: "Move-In & Move-Out Cleaning in Panjim (Panaji), Goa"
 date: 2025-09-22
 author: Goa Shine Cleaning Services
-categories: [cleaning, relocation]
 tags: [move-out-cleaning, move-in-cleaning, panjim, goa]
 excerpt: "Stress-free move-in and move-out cleaning services in Panjim (Panaji), Goa for tenants, landlords, and property managers."
 header:
